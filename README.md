@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇨🇳 简体中文</b> | <a href="README_EN.md">🇬🇧 English</a>
+</p>
+
 # 🌌 洪荒空间 (Honghuang Space)
 
 <div align="center">
