@@ -10,6 +10,11 @@
   <b>极速 · 优雅 · 隐私安全 · 纯本地离线运算的云原生开发者与网络全能矩阵门户</b>
 </p>
 
+<p align="center">
+  <a href="#-赞赏与支持-sponsor"><img src="https://img.shields.io/badge/☕-赞赏支持-rose.svg?style=flat-square" alt="赞赏支持"></a>
+  <a href="https://amw3.eu.org"><img src="https://img.shields.io/badge/洪荒空间-amw3.eu.org-orange.svg?style=flat-square" alt="主页"></a>
+</p>
+
 [🌐 访问门户主站](https://amw3.eu.org/) • [☁️ OctPc 点云引擎](https://github.com/HonghuangKongJian/OctPc-Release) • [📝 技术博客与知识库](https://blog.amw3.eu.org/) • [🛡️ Claude AI 出口检测](https://ipcheck.amw3.eu.org/) • [⚡ GitHub 加速站](https://gh.amw3.eu.org/)
 
 </div>
@@ -72,12 +77,39 @@
 
 ---
 
-### ☕ 赞赏与支持
+### ☕ 赞赏与支持 (Sponsor)
 
-如果您觉得本站矩阵或开源工具对您有所帮助，欢迎赞赏支持我们的服务器运营：
+如果您觉得洪荒空间矩阵、开源工具或技术分享对您的工作与学习有所帮助，欢迎赞赏支持我们的云服务器运营与开源创作！您的每一份鼓励都是我们持续前行的最大动力！
 
-- **微信赞赏**：欢迎访问 [洪荒空间主站](https://amw3.eu.org/) 或各工具页右侧「☕ 赞赏支持」弹窗体验。
-- **支付宝**：支持免手续费扫码支持。
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="320">
+        <a href="https://amw3.eu.org">
+          <img src="docs/images/wechat-reward.png" width="220" alt="微信赞赏码" />
+        </a>
+        <br/>
+        <b>🟢 微信赞赏支持</b>
+        <br/>
+        <sub>打开手机微信扫一扫</sub>
+      </td>
+      <td align="center" width="320">
+        <a href="https://amw3.eu.org">
+          <img src="docs/images/alipay-reward.png" width="220" alt="支付宝收款码" />
+        </a>
+        <br/>
+        <b>🔵 支付宝收款支持</b>
+        <br/>
+        <sub>打开手机支付宝扫一扫</sub>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <p>
+    🌐 <b>洪荒空间门户矩阵</b>：<a href="https://amw3.eu.org">https://amw3.eu.org</a><br/>
+    📧 <b>联系与技术交流邮箱</b>：<a href="mailto:19053936@qq.com">19053936@qq.com</a>
+  </p>
+</div>
 
 ---
 
